@@ -1,0 +1,131 @@
+@font-face {
+	font-family: "coolvetica";
+	src: url(../police/coolvetica.ttf);
+}
+@font-face {
+	font-family: "cantarell";
+	src: url(../police/cantarell.ttf);
+}
+
+
+#organisation{
+	width: 1200px;
+	margin: none;
+	padding:none;
+}
+
+.contenu_organisation_programme h1{
+	margin-top:0px;
+	font-family:coolvetica;
+	color:white;
+	font-size: 40px;
+	padding-top: 30px;
+	text-align:center;
+}
+.contenu_organisation_programme p{
+	margin-top:0px;
+	font-family:cantarell;
+	color:white;
+	font-size: 17px;
+	padding-top: 10px;
+	padding-left:250px;
+	width:750px;
+}
+
+
+.contenu_organisation_programme ul{
+	margin: 0px;
+}
+
+.contenu_organisation_programme li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-family:cantarell;
+	text-align: center	
+}
+.contenu_organisation_programme h2{
+
+	font-size: 25px;
+	color:white;
+	padding-top: 30px;	
+	
+}
+.contenu_organisation_programme b{
+	font-size: 15px;
+	color: white;
+	
+}
+
+.gmaps{
+	padding-left: 100px;
+	
+}
+
+.contenu_organisation_programme img{
+	width:150px;
+	height:150px;
+	padding-left:250px;
+	float:left;
+	padding-top: 30px;
+}
+
+.contenu_organisation_programme h3{
+	float:left;
+	width: 500px;
+	font-family:cantarell;
+	color:white;
+	font-size: 15px;
+	padding-left: 30px;
+	padding-top: 12px;
+	
+}
+
+.clear{
+	clear:both;
+}
+
+.contenu_organisation_programme h4{
+	font-family:cantarell;
+	color:white;
+	font-size: 25px;
+	text-align:center;
+	background-color:#4d2921;
+	
+	
+}
+
+.video{
+	padding-left: 280px;	
+}
+
+
+.bleu_foncé{
+	background-image:url(../image/texture.png);
+	padding-bottom:50px;
+}
+
+.bleu_clair{
+	background-image:url(../image/texture.png);
+	padding-bottom:50px;
+}
+
+
+
+.marron{
+	background-color:#8B684A;
+	padding-bottom:50px;
+}
+
+
+
+.sponsors img{
+	padding: 50px;
+	width : 100px;	
+	height : 70px;
+
+
+
+
+
+

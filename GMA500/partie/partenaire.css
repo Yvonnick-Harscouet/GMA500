@@ -1,0 +1,99 @@
+@font-face {
+	font-family: "coolvetica";
+	src: url(../police/coolvetica.ttf);
+}
+@font-face {
+	font-family: "cantarell";
+	src: url(../police/cantarell.ttf);
+}
+
+
+#partenaire{
+	width: 1200px;
+	margin: none;
+	padding:none;
+	background-image:url(../image/texture.png);
+}
+
+.contenu_menu{
+	width: 1200px;
+	margin: none;
+	padding:none;
+	background-color:#064975;
+}
+
+.contenu_menu img{ 
+
+	width: 115px;
+	height: 80px;
+	vertical-align:middle;
+
+
+}
+.contenu_menu ul{
+	margin: 0px;
+	padding-bottom:15px;
+}
+
+.contenu_menu li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display:inline-block;
+	font-family:cantarell;
+	color:#4565BE;
+	font-size: 19px;
+	
+}
+
+.contenu_menu a{
+	text-decoration: none;
+	color:white;
+	padding-left:60px;
+}
+	
+a:hover{
+	font-size: 22px	;
+}
+
+
+.contenu_partenaire h1{
+	margin-top:0px;
+	font-family:coolvetica;
+	color:white;
+	font-size: 35px;
+	padding-top: 30px;
+	text-align:center;
+}
+.contenu_partenaire p{
+	margin-top:0px;
+	font-family:cantarell;
+	color:white;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-left:200px;
+	width:800px;
+}
+.contenu_partenaire ul{
+	margin: 0px;
+}
+
+.contenu_partenaire li{
+	list-style: none;
+	margin: 0;
+
+	font-family:cantarell;
+	color:white;
+	font-size: 15px;
+	padding-left:160px;
+	padding-top:20px;
+	
+}
+.contenu_partenaire h2{
+	font-family:cantarell;
+	font-size: 20px;
+	color: white;
+	padding-top: 20px;	
+	padding-left:200px;
+	
+}
